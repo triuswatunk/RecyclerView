@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/drawable/background_blue.xml" value="0.137" />
+        <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/drawable/background_btn.xml" value="0.137" />
         <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/layout/activity_profile.xml" value="0.2" />
         <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
         <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/layout/detail_data_pemain.xml" value="0.16" />
         <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/layout/list_item_pemain.xml" value="0.17074275362318841" />
+        <entry key="..\:/praktekkotlin/RecyclerView/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
